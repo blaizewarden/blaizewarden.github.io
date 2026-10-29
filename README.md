@@ -1,5 +1,3 @@
-# Clinic Cloud
+# Clinic Cloud has moved
 
-https://blaizewarden.github.io/cloud-clinic/
-
-Changes are saved in each browser.
+https://sotero-clinic.github.io
