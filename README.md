@@ -1,5 +1,5 @@
 # Clinic Cloud
 
-Hosted copy: https://blaizewarden.github.io/stock/
+https://blaizewarden.github.io/cloud-clinic/
 
 Changes are saved in each browser.
